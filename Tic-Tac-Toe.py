@@ -69,7 +69,7 @@ print(" {0} | {1} | {2} ".format(a[1], a[2], a[3]))
 print("-----------")
 print(" {0} | {1} | {2} ".format(str(a[4]), str(a[5]), str(a[6])))
 print("-----------")
-print(" {1} | {1} | {2} ".format(str(a[7]), str(a[8]), str(a[9])))
+print(" {0} | {1} | {2} ".format(str(a[7]), str(a[8]), str(a[9])))
 
 if winrivel == 1:
     print("\tGame Over")
